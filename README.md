@@ -1,6 +1,6 @@
 **NOTE:** After reading the description below, choose the programming language of your choice and follow that link to full instructions to complete this tutorial.  You will clone a specific branch of this repository for complete instructions, **not** this master branch where only a description of the workshop exists.
 
-# Build a Modern Application on AWS
+# Build a Modern Application on AWS c
 
 ![mysfits-welcome](/images/mysfits-welcome.png)
 
